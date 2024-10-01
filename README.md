@@ -16,7 +16,7 @@
 - 💼 Atualmente trabalho com Desenvolvimento de Software
 - 🎓 Graduação em Análise e Desenvolvimento de Sistemas, Pós-graduação em Engenharia de Software
 - ⚙️ **Linguagens e Tecnologias**: Python, CSS3, HTML5, JavaScript, Django
-- 🔧 Ferramentas: VS Code, Git, GitHub, Linux, Django
+- 🔧 Ferramentas: VS Code, Git, GitHub, Django
 - 📈 Interesses: Desenvolvimento Web, Ciência de Dados, Machine Learning
   
 ##  
