@@ -13,11 +13,12 @@
 </div>
 <br>
 
-- 💼 Atualmente trabalho com Desenvolvimento de Software
+- 💼 Atualmente buscando oportunidade na área de Business Intelligence
 - 🎓 Graduação em Análise e Desenvolvimento de Sistemas, Pós-graduação em Engenharia de Software
-- ⚙️ **Linguagens e Tecnologias**: Python, CSS3, HTML5, JavaScript, Django
-- 🔧 Ferramentas: VS Code, Git, GitHub, Django
-- 📈 Interesses: Desenvolvimento Web, Ciência de Dados, Machine Learning
+- 🎓 Pós-graduação em Business Intelligence
+- ⚙️ **Linguagens e Tecnologias**: Python, DAX e SQL
+- 🔧 Ferramentas: VS Code, Git, GitHub, Power BI
+- 📈 Interesses: Analista de BI ou afins
   
 ##  
 <br>
